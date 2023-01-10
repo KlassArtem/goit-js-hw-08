@@ -19,5 +19,5 @@ gallRef.innerHTML = galleryItemsMarkup;
 
 new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
-  captionDelay: 250,
+  captionDelay: 251,
 });
